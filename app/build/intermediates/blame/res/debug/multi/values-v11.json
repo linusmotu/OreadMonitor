@@ -1,0 +1,188 @@
+[
+    {
+        "outputFile": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 216,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 348
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 353,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 794
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 351,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 799,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1303
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1308,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endColumn": 112,
+                    "endOffset": 1937
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1942,
+                    "endColumn": 94,
+                    "endOffset": 2032
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2037,
+                    "endColumn": 116,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endColumn": 124,
+                    "endOffset": 2274
+                },
+                "from": {
+                    "file": "/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_3251f6aac1368df6313571d16bb6537fc9150ea4.jar" />
+    </item>
+    <item
+        jar="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/libs/apache-mime4j-0.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70f12e1ea268c09373a5d02290aad4f557addd6">
+        <dex dex="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/pre-dexed/debug/apache-mime4j-0.6.1_9292dcbf0b6c12166e6d8761e3123335f1fab59f.jar" />
+    </item>
+    <item
+        jar="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/libs/httpmime-4.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="326bf4147f100e8a4fdd7f1867a87e969fb10812">
+        <dex dex="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/pre-dexed/debug/httpmime-4.0.1_d54b22e34d579bd67ffaa3ceb883ef0a9f873bae.jar" />
+    </item>
+    <item
+        jar="/home/francis/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/francis/Workspace/AndroidStudioProjects/OreadMonitor/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_727657442bbc4d5bba2f52d554d14a41115f4166.jar" />
+    </item>
+
+</items>
